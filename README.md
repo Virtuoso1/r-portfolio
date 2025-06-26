@@ -1,1 +1,1 @@
-Basic react APplication to create a developer portfolio
+Basic react application to create a developer portfolio
